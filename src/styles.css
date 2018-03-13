@@ -1,1 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
+.contenedor {
+    border: solid 1px green;
+    margin: 20px;
+    padding: 20px;
+}
